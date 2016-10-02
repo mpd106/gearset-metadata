@@ -188,7 +188,7 @@
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>CI_Test</fullName>
+                <fullName>DemoForDreamforce</fullName>
                 <default>false</default>
             </picklistValues>
             <sorted>false</sorted>
