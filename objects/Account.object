@@ -329,35 +329,7 @@
         <fullName>AccountSource</fullName>
         <picklist>
             <picklistValues>
-                <fullName>Advertisement</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Employee Referral</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>External Referral</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Partner</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Public Relations</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Seminar - Internal</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Seminar - Partner</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Trade Show</fullName>
+                <fullName>Demo for Matt from StackOverflow</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
@@ -365,7 +337,15 @@
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Word of mouth</fullName>
+                <fullName>Phone Inquiry</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Partner Referral</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Purchased List</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
@@ -373,7 +353,59 @@
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>DemoForDreamforce</fullName>
+                <fullName>Luke added</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Demo for Mark from Frost</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Demo for U.S. Bank on Friday</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Demo for Dan from Quench</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForPaul</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForQuench</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForAndy</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Shehzad</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForAgilitude</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>ZeltiqDemo</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForMavens</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForDryRun</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForAnthony</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForRC</fullName>
                 <default>false</default>
             </picklistValues>
             <sorted>false</sorted>
