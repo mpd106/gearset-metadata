@@ -333,19 +333,11 @@
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Customer Event</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
                 <fullName>Employee Referral</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Google AdWords</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Other</fullName>
+                <fullName>External Referral</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
@@ -353,7 +345,15 @@
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Purchased List</fullName>
+                <fullName>Public Relations</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Seminar - Internal</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Seminar - Partner</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
@@ -361,11 +361,19 @@
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Webinar</fullName>
+                <fullName>Web</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Website</fullName>
+                <fullName>Word of mouth</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForDreamforce</fullName>
                 <default>false</default>
             </picklistValues>
             <sorted>false</sorted>
