@@ -329,23 +329,19 @@
         <fullName>AccountSource</fullName>
         <picklist>
             <picklistValues>
-                <fullName>Demo for Matt from StackOverflow</fullName>
+                <fullName>Advertisement</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Web</fullName>
+                <fullName>Customer Event</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Phone Inquiry</fullName>
+                <fullName>Employee Referral</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Partner Referral</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Purchased List</fullName>
+                <fullName>Google AdWords</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
@@ -353,59 +349,23 @@
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Luke added</fullName>
+                <fullName>Partner</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Demo for Mark from Frost</fullName>
+                <fullName>Purchased List</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Demo for U.S. Bank on Friday</fullName>
+                <fullName>Trade Show</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Demo for Dan from Quench</fullName>
+                <fullName>Webinar</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>DemoForPaul</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>DemoForQuench</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>DemoForAndy</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Shehzad</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>DemoForAgilitude</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>ZeltiqDemo</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>DemoForMavens</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>DemoForDryRun</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>DemoForAnthony</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>DemoForRC</fullName>
+                <fullName>Website</fullName>
                 <default>false</default>
             </picklistValues>
             <sorted>false</sorted>
