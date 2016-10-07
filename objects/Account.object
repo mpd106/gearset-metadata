@@ -372,6 +372,18 @@
                 <fullName>Other</fullName>
                 <default>false</default>
             </picklistValues>
+            <picklistValues>
+                <fullName>DemoForDreamforce</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>InboundCall</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DreamforceLeads</fullName>
+                <default>false</default>
+            </picklistValues>
             <sorted>false</sorted>
         </picklist>
         <trackFeedHistory>false</trackFeedHistory>
