@@ -329,31 +329,51 @@
         <fullName>AccountSource</fullName>
         <picklist>
             <picklistValues>
-                <fullName>Direct Enquiry - Email</fullName>
+                <fullName>Advertisement</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Direct Enquiry - Phone</fullName>
+                <fullName>Employee Referral</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Event</fullName>
+                <fullName>External Referral</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Referral</fullName>
+                <fullName>Partner</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Support</fullName>
+                <fullName>Public Relations</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Web - Quote</fullName>
+                <fullName>Seminar - Internal</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Web - Trial Download</fullName>
+                <fullName>Seminar - Partner</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Trade Show</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Web</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Word of mouth</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>DemoForDreamforce</fullName>
                 <default>false</default>
             </picklistValues>
             <sorted>false</sorted>
